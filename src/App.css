@@ -1,0 +1,26 @@
+.App {
+  height: calc(100vh - 60px);
+  font-size: 95px;
+  letter-spacing: 0em;
+  line-height: 0.9;
+  margin-left: 0px;
+  width: calc(100% - 280px);
+  text-align: left;
+  transition: all 0.5s ease;
+  background-color: #f8f8f8;
+}
+#target {
+  min-height: calc(100% - 60px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  max-width: calc(100% - 80px);
+  padding: 25px 40px;
+  overflow: hidden;
+}
+.App:focus {outline:none!important;}
+.sidebar {
+  height: calc(100vh - 60px);
+  background-color: #e8e8e8;
+}
