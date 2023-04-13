@@ -8,7 +8,8 @@ function simulateNetworkRequest() {
 }
 function App() {
   const [rangevalue, setRange] = useState(95);
-  const ranger = (e) => {
+  const ranger = (e) => { 
+    
     setRange(e.target.value);
   };
   const [weightvalue, setWeight] = useState(100);
