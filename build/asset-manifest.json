@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Georgian-Fontter/scr/static/css/main.0f8f83cb.css",
-    "main.js": "/Georgian-Fontter/scr/static/js/main.210d07e2.js",
-    "static/js/787.83580ead.chunk.js": "/Georgian-Fontter/scr/static/js/787.83580ead.chunk.js",
-    "static/media/fa-solid-900.ttf": "/Georgian-Fontter/scr/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
-    "static/media/fa-brands-400.ttf": "/Georgian-Fontter/scr/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
-    "static/media/fa-solid-900.woff2": "/Georgian-Fontter/scr/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
-    "static/media/fa-brands-400.woff2": "/Georgian-Fontter/scr/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
-    "static/media/fa-regular-400.ttf": "/Georgian-Fontter/scr/static/media/fa-regular-400.d87474231f4192884802.ttf",
-    "static/media/fa-regular-400.woff2": "/Georgian-Fontter/scr/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
-    "static/media/fa-v4compatibility.ttf": "/Georgian-Fontter/scr/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
-    "static/media/fa-v4compatibility.woff2": "/Georgian-Fontter/scr/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
-    "index.html": "/Georgian-Fontter/scr/index.html",
-    "main.0f8f83cb.css.map": "/Georgian-Fontter/scr/static/css/main.0f8f83cb.css.map",
-    "main.210d07e2.js.map": "/Georgian-Fontter/scr/static/js/main.210d07e2.js.map",
-    "787.83580ead.chunk.js.map": "/Georgian-Fontter/scr/static/js/787.83580ead.chunk.js.map"
+    "main.css": "/Georgian-Fontter/static/css/main.6e69dd6e.css",
+    "main.js": "/Georgian-Fontter/static/js/main.c0695c04.js",
+    "static/js/787.83580ead.chunk.js": "/Georgian-Fontter/static/js/787.83580ead.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Georgian-Fontter/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/Georgian-Fontter/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/Georgian-Fontter/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/Georgian-Fontter/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/Georgian-Fontter/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/Georgian-Fontter/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Georgian-Fontter/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Georgian-Fontter/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/Georgian-Fontter/index.html",
+    "main.6e69dd6e.css.map": "/Georgian-Fontter/static/css/main.6e69dd6e.css.map",
+    "main.c0695c04.js.map": "/Georgian-Fontter/static/js/main.c0695c04.js.map",
+    "787.83580ead.chunk.js.map": "/Georgian-Fontter/static/js/787.83580ead.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f8f83cb.css",
-    "static/js/main.210d07e2.js"
+    "static/css/main.6e69dd6e.css",
+    "static/js/main.c0695c04.js"
   ]
 }
